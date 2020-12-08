@@ -18,7 +18,7 @@
         android:text="Add" />
 
     <EditText
-        android:id="@+id/etItem"
+        android:id="@+id/eTItem"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
